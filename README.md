@@ -1,8 +1,6 @@
-Çeviri: Vuats
+Çeviri, Yazı Dizimi: Vuats
 
 Çeviri Kontrol & Düzenleme: Fei
-
-Yazı Dizimi: Vuats
 
 Son Kontrol: Søra (?)
 
