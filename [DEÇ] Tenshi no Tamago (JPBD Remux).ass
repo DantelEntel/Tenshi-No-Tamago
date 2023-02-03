@@ -32,7 +32,7 @@ Dialogue: 10,0:03:25.56,0:03:28.39,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:23:56.23,0:24:02.58,Default,,0,0,0,,Kıymet verdiklerini içinde tutmazsan kaybedebilirsin.
 Dialogue: 10,0:24:44.32,0:24:48.21,Default,,0,0,0,,Peki bu yumurtanın içinde ne var bakalım?
 Dialogue: 10,0:24:51.76,0:24:54.47,Default,,0,0,0,,Size söyleyemem...
-Dialogue: 10,0:24:55.29,0:24:57.96,Default,,0,0,0,,Sonuçta kim olduğunuzu bilmiyorum.
+Dialogue: 10,0:24:55.29,0:24:57.96,Default,,0,0,0,,Çünkü kim olduğunuzu bilmiyorum.
 Dialogue: 10,0:24:59.12,0:25:05.56,Default,,0,0,0,,İçinden ne çıkacağını ancak kırıldığında öğrenebilirsin.
 Dialogue: 10,0:25:47.88,0:25:50.61,Default,,0,0,0,,Siz kimsiniz?
 Dialogue: 10,0:26:33.95,0:26:35.84,Default,,0,0,0,,Peşimden gelmeyin!
@@ -53,7 +53,8 @@ Dialogue: 10,0:38:25.64,0:38:32.19,Default,,0,0,0,,büyüyen kara ufuktan dev bi
 Dialogue: 10,0:38:32.19,0:38:35.04,Default,,0,0,0,,Yaşam sömürdü kökleriyle topraktan,
 Dialogue: 10,0:38:35.04,0:38:37.56,Default,,0,0,0,,uzatırken dallarını yukarı,
 Dialogue: 10,0:38:37.56,0:38:39.83,Default,,0,0,0,,sanki bir şeyi tutarcasına...
-Dialogue: 10,0:38:41.12,0:38:47.05,Default,,0,0,0,,Yumurtanın içinde uyuyan dev bir kuşu.
+Dialogue: 10,0:38:41.12,0:38:42.75,Default,,0,0,0,,Yumurtanın içinde...
+Dialogue: 10,0:38:43.96,0:38:47.05,Default,,0,0,0,,...uyuyan dev bir kuşu.
 Dialogue: 10,0:38:47.50,0:38:49.56,Default,,0,0,0,,Kuşa ne oldu?
 Dialogue: 10,0:38:49.56,0:38:51.44,Default,,0,0,0,,Şimdi nerede?
 Dialogue: 10,0:38:59.72,0:39:04.58,Default,,0,0,0,,Hala rüyası devam ediyor.
@@ -67,7 +68,7 @@ Dialogue: 10,0:41:07.10,0:41:10.68,Default,,0,0,0,,Ben de nereden geldiğimi unu
 Dialogue: 10,0:41:10.68,0:41:16.41,Default,,0,0,0,,Belki de nereye gideceğimi baştan bilmiyordum.
 Dialogue: 10,0:41:17.82,0:41:20.20,Default,,0,0,0,,Bir yere mi gideceksin?
 Dialogue: 10,0:41:40.17,0:41:45.40,Default,,0,0,0,,"Yarattığım insanları, hayvanları, sürüngenleri, kuşları...
-Dialogue: 10,0:41:45.40,0:41:51.60,Default,,0,0,0,,...yeryüzünden silip atacağım, çünkü onları yarattığıma pişman oldum."
+Dialogue: 10,0:41:45.40,0:41:51.60,Default,,0,0,0,,...yeryüzünden silip atacağım,\Nçünkü onları yarattığıma pişman oldum."
 Dialogue: 10,0:41:51.60,0:41:55.57,Default,,0,0,0,,"Yeryüzüne kırk gün kırk gece yağmur yağdıracağım."
 Dialogue: 10,0:41:55.57,0:42:01.04,Default,,0,0,0,,"Yarattığım her canlıyı yeryüzünden silip atacağım."
 Dialogue: 10,0:42:01.04,0:42:05.44,Default,,0,0,0,,Yedi gün sonra tufan koptu.
@@ -123,7 +124,7 @@ Dialogue: 10,0:49:37.94,0:49:41.20,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:49:44.57,0:49:47.04,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:55:32.75,0:55:34.64,Default,,0,0,0,,Kimsin...
 Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,Sen kimsin?
-Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: X}{Son Kontrol & Düzenleme: X}
+Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: X}{Son Kontrol & Düzenleme: Fei}
 Comment: 0,0:05:44.16,0:55:37.85,Default,,0,0,0,,{=14}{Baslik}
 Dialogue: 0,0:05:44.16,0:06:01.26,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H0C0C0C&}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 2,0:05:45.87,0:05:45.91,TS,,0,0,0,,{\alpha&HF7&\shad0\bord0\blur1\an5\c&H090808&\fnIM FELL English PRO\b0\pos(959.78,540.18)}Meleğin Yumurtası
@@ -495,6 +496,7 @@ Dialogue: 2,0:06:01.09,0:06:01.13,TS,,0,0,0,,{\shad0\bord0\blur1\an5\c&HF5EBFB&\
 Dialogue: 2,0:06:01.13,0:06:01.17,TS,,0,0,0,,{\shad0\bord0\blur1\an5\c&HF5EBFB&\fnIM FELL English PRO\b0\pos(960.11,540.4)}Meleğin Yumurtası
 Dialogue: 2,0:06:01.17,0:06:01.22,TS,,0,0,0,,{\shad0\bord0\blur1\an5\c&HF5EBFB&\fnIM FELL English PRO\b0\pos(959.7,539.82)}Meleğin Yumurtası
 Dialogue: 2,0:06:01.22,0:06:01.26,TS,,0,0,0,,{=15}{\shad0\bord0\blur1\an5\c&HF5EBFB&\fnIM FELL English PRO\b0\pos(959.66,540.15)}Meleğin Yumurtası
+
 
 [Aegisub Extradata]
 Data: 14,_aegi_folddata,e0;1;2
