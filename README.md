@@ -1,7 +1,7 @@
 Çeviri, Yazı Dizimi: Vuats
 
-Çeviri Kontrol & Düzenleme: Fei
+Çeviri Kontrol: ?
 
-Son Kontrol: Søra (?)
+Son Kontrol & Düzenleme: Fei
 
 Kaynak: [JPBD Remux ](https://nyaa.si/view/1328570 "JPBD Remux ")
