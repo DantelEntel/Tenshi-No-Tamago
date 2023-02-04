@@ -39,31 +39,31 @@ Dialogue: 10,0:26:33.95,0:26:35.84,Default,,0,0,0,,Peşimden gelmeyin!
 Dialogue: 10,0:29:36.07,0:29:37.71,Default,,0,0,0,,Balık çıktı.
 Dialogue: 10,0:29:40.43,0:29:41.63,Default,,0,0,0,,Balık mı?
 Dialogue: 10,0:29:47.38,0:29:51.04,Default,,0,0,0,,Bulamayacakları şeylerin peşine düştüler.
-Dialogue: 10,0:29:51.04,0:29:53.85,Default,,0,0,0,,Halbuki hiçbir yerde balık yoktu.
+Dialogue: 10,0:29:51.04,0:29:53.85,Default,,0,0,0,,Hâlbuki hiçbir yerde balık yoktu.
 Dialogue: 10,0:36:47.50,0:36:49.52,Default,,0,0,0,,Lütfen...
 Dialogue: 10,0:36:49.52,0:36:51.52,Default,,0,0,0,,Yumurtama...
 Dialogue: 10,0:36:51.52,0:36:53.56,Default,,0,0,0,,...zarar vermeyeceğine...
 Dialogue: 10,0:36:53.56,0:36:55.31,Default,,0,0,0,,...söz ver.
-Dialogue: 10,0:37:38.01,0:37:39.69,Default,,0,0,0,,Buradan.
+Dialogue: 10,0:37:38.01,0:37:39.69,Default,,0,0,0,,Buradan!
 Dialogue: 10,0:38:04.67,0:38:09.14,Default,,0,0,0,,Daha önce bir yerde böyle bir ağaç görmüştüm...
 Dialogue: 10,0:38:11.21,0:38:14.06,Default,,0,0,0,,Ne kadar geçti ki üstünden?
 Dialogue: 10,0:38:15.38,0:38:18.40,Default,,0,0,0,,Unutmama yetecek kadar...
-Dialogue: 10,0:38:19.39,0:38:22.84,Default,,0,0,0,,Bulutların hareketi ses çıkarırken göklerin altında,
-Dialogue: 10,0:38:25.64,0:38:32.19,Default,,0,0,0,,büyüyen kara ufuktan dev bir ağaç filizlendi boşluğa.
-Dialogue: 10,0:38:32.19,0:38:35.04,Default,,0,0,0,,Yaşam sömürdü kökleriyle topraktan,
-Dialogue: 10,0:38:35.04,0:38:37.56,Default,,0,0,0,,uzatırken dallarını yukarı,
-Dialogue: 10,0:38:37.56,0:38:39.83,Default,,0,0,0,,sanki bir şeyi tutarcasına...
+Dialogue: 10,0:38:19.39,0:38:22.84,Default,,0,0,0,,Bulutların hareketi ses çıkarırken göklerin altında...
+Dialogue: 10,0:38:25.64,0:38:32.19,Default,,0,0,0,,...büyüyen kara ufuktan dev bir ağaç filizlendi boşluğa.
+Dialogue: 10,0:38:32.19,0:38:35.04,Default,,0,0,0,,Yaşam sömürdü kökleriyle topraktan...
+Dialogue: 10,0:38:35.04,0:38:37.56,Default,,0,0,0,,...uzatırken dallarını yukarı...
+Dialogue: 10,0:38:37.56,0:38:39.83,Default,,0,0,0,,...sanki bir şeyi tutarcasına.
 Dialogue: 10,0:38:41.12,0:38:42.75,Default,,0,0,0,,Yumurtanın içinde...
 Dialogue: 10,0:38:43.96,0:38:47.05,Default,,0,0,0,,...uyuyan dev bir kuşu.
 Dialogue: 10,0:38:47.50,0:38:49.56,Default,,0,0,0,,Kuşa ne oldu?
 Dialogue: 10,0:38:49.56,0:38:51.44,Default,,0,0,0,,Şimdi nerede?
-Dialogue: 10,0:38:59.72,0:39:04.58,Default,,0,0,0,,Hala rüyası devam ediyor.
+Dialogue: 10,0:38:59.72,0:39:04.58,Default,,0,0,0,,Hâlâ rüyası devam ediyor.
 Dialogue: 10,0:39:04.58,0:39:05.90,Default,,0,0,0,,Rüyası mı?
 Dialogue: 10,0:39:06.44,0:39:08.74,Default,,0,0,0,,Rüyasında ne görüyor?
 Dialogue: 10,0:39:10.15,0:39:12.64,Default,,0,0,0,,Yumurtanın içinde ne olduğunu...
-Dialogue: 10,0:39:12.64,0:39:14.74,Default,,0,0,0,,...saklamakta hala ısrarcı mısın?
+Dialogue: 10,0:39:12.64,0:39:14.74,Default,,0,0,0,,...saklamakta hâlâ ısrarcı mısın?
 Dialogue: 10,0:40:51.00,0:40:54.30,Default,,0,0,0,,Kaç gündür buradasın?
-Dialogue: 10,0:40:58.76,0:41:01.52,Default,,0,0,0,,Şişe sayısının üstünde mi?
+Dialogue: 10,0:40:58.76,0:41:01.52,Default,,0,0,0,,Şişe sayısının üstünde mi? 
 Dialogue: 10,0:41:07.10,0:41:10.68,Default,,0,0,0,,Ben de nereden geldiğimi unuttum...
 Dialogue: 10,0:41:10.68,0:41:16.41,Default,,0,0,0,,Belki de nereye gideceğimi baştan bilmiyordum.
 Dialogue: 10,0:41:17.82,0:41:20.20,Default,,0,0,0,,Bir yere mi gideceksin?
@@ -73,12 +73,12 @@ Dialogue: 10,0:41:51.60,0:41:55.57,Default,,0,0,0,,"Yeryüzüne kırk gün kırk
 Dialogue: 10,0:41:55.57,0:42:01.04,Default,,0,0,0,,"Yarattığım her canlıyı yeryüzünden silip atacağım."
 Dialogue: 10,0:42:01.04,0:42:05.44,Default,,0,0,0,,Yedi gün sonra tufan koptu.
 Dialogue: 10,0:42:10.79,0:42:15.04,Default,,0,0,0,,O gün, enginlerin bütün kaynakları fışkırdı...
-Dialogue: 10,0:42:18.04,0:42:21.68,Default,,0,0,0,,...ve göklerin kapakları açıldı
+Dialogue: 10,0:42:18.04,0:42:21.68,Default,,0,0,0,,...ve göklerin kapakları açıldı.
 Dialogue: 10,0:42:21.68,0:42:26.84,Default,,0,0,0,,Yeryüzüne kırk gün kırk gece yağmur yağdı.
 Dialogue: 10,0:42:26.84,0:42:29.98,Default,,0,0,0,,Gemi suyun üzerinde yüzmeye başladı.
-Dialogue: 10,0:42:30.48,0:42:32.72,Default,,0,0,0,,Yeryüzünde yaşayan bütün canlılar;
-Dialogue: 10,0:42:32.72,0:42:35.56,Default,,0,0,0,,kuşlar, evcil ve yabanıl hayvanlar;
-Dialogue: 10,0:42:35.56,0:42:40.84,Default,,0,0,0,,sürüngenler, insanlar, soluk alan bütün canlılar öldü.
+Dialogue: 10,0:42:30.48,0:42:32.72,Default,,0,0,0,,Yeryüzünde yaşayan bütün canlılar...
+Dialogue: 10,0:42:32.72,0:42:35.56,Default,,0,0,0,,...kuşlar, evcil ve yabanıl hayvanlar...
+Dialogue: 10,0:42:35.56,0:42:40.84,Default,,0,0,0,,...sürüngenler, insanlar, soluk alan bütün canlılar öldü.
 Dialogue: 10,0:42:40.84,0:42:43.88,Default,,0,0,0,,Yalnız Nuh...
 Dialogue: 10,0:42:43.88,0:42:47.08,Default,,0,0,0,,...ve gemidekiler kaldı.
 Dialogue: 10,0:42:48.37,0:42:50.08,Default,,0,0,0,,Bunun üzerine Nuh, güvercini...
@@ -103,7 +103,7 @@ Dialogue: 10,0:45:13.93,0:45:15.65,Default,,0,0,0,,Burada.
 Dialogue: 10,0:45:18.27,0:45:19.61,Default,,0,0,0,,Burada.
 Dialogue: 10,0:45:25.98,0:45:27.48,Default,,0,0,0,,Burada.
 Dialogue: 10,0:46:13.61,0:46:17.76,Default,,0,0,0,,Bulduğum çoktan taşa dönüşmüş ama...
-Dialogue: 10,0:46:17.76,0:46:21.52,Default,,0,0,0,,...yumurtayı sıcak tutup yerine koyacağım. {kuluçkaya yatmak anlamında}
+Dialogue: 10,0:46:17.76,0:46:21.52,Default,,0,0,0,,...yumurtayı sıcak tutup yerine koyacağım. {kuluçkaya yatmak anlamında} {seninki daha iyi bence kuluçkaya yatıracağım desen sanki kız değil de başka bir kuş bulup onun aracılığıyla yapacakmış gibi bir anlam oluşur}
 Dialogue: 10,0:46:21.52,0:46:23.40,Default,,0,0,0,,İşte bulduğum kuş.
 Dialogue: 10,0:46:27.40,0:46:29.28,Default,,0,0,0,,Biliyorum.
 Dialogue: 10,0:46:32.42,0:46:34.80,Default,,0,0,0,,Tahmin etmiştim.
@@ -118,13 +118,13 @@ Dialogue: 10,0:48:00.76,0:48:02.40,Default,,0,0,0,,Yakında...
 Dialogue: 10,0:48:03.24,0:48:06.57,Default,,0,0,0,,Şu an için rüya olabilir...
 Dialogue: 10,0:48:06.57,0:48:10.24,Default,,0,0,0,,...ama sana göstereceğim... Çok yakında...
 Dialogue: 10,0:48:13.00,0:48:15.72,Default,,0,0,0,,Bu yüzden burada kalmalısın.
-Dialogue: 10,0:48:16.56,0:48:19.72,Default,,0,0,0,,Buraya yağmur yağmıyor,
-Dialogue: 10,0:48:21.56,0:48:23.68,Default,,0,0,0,,hava üşütmüyor...
+Dialogue: 10,0:48:16.56,0:48:19.72,Default,,0,0,0,,Buraya yağmur yağmıyor...
+Dialogue: 10,0:48:21.56,0:48:23.68,Default,,0,0,0,,...hava üşütmüyor...
 Dialogue: 10,0:49:37.94,0:49:41.20,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:49:44.57,0:49:47.04,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:55:32.75,0:55:34.64,Default,,0,0,0,,Kimsin...
 Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,Sen kimsin?
-Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: X}{Son Kontrol & Düzenleme: Fei}
+Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: Fei}{Son Kontrol & Düzenleme: Kenanke}
 Comment: 0,0:05:44.16,0:55:37.85,Default,,0,0,0,,{=14}{Baslik}
 Dialogue: 0,0:05:44.16,0:06:01.26,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H0C0C0C&}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 2,0:05:45.87,0:05:45.91,TS,,0,0,0,,{\alpha&HF7&\shad0\bord0\blur1\an5\c&H090808&\fnIM FELL English PRO\b0\pos(959.78,540.18)}Meleğin Yumurtası
