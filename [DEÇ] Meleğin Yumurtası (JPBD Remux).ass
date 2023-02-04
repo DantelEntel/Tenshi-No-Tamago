@@ -124,7 +124,7 @@ Dialogue: 10,0:49:37.94,0:49:41.20,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:49:44.57,0:49:47.04,Default,,0,0,0,,Sen kimsin?
 Dialogue: 10,0:55:32.75,0:55:34.64,Default,,0,0,0,,Kimsin...
 Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,Sen kimsin?
-Dialogue: 10,0:55:35.09,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: Fei}{Son Kontrol & Düzenleme: Kenanke}
+Comment: 0,0:05:44.16,0:55:37.85,Default,,0,0,0,,{Çeviri: Vuats}{Çeviri Kontrol: Fei}{Son Kontrol & Düzenleme: Kenanke}{https://github.com/DantelEntel}
 Comment: 0,0:05:44.16,0:55:37.85,Default,,0,0,0,,{=14}{Baslik}
 Dialogue: 0,0:05:44.16,0:06:01.26,TS,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H0C0C0C&}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 2,0:05:45.87,0:05:45.91,TS,,0,0,0,,{\alpha&HF7&\shad0\bord0\blur1\an5\c&H090808&\fnIM FELL English PRO\b0\pos(959.78,540.18)}Meleğin Yumurtası
