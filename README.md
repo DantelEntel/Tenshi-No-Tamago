@@ -1,9 +1,8 @@
-Çeviri, Yazı Dizimi: Vuats
+## Emeği Geçenler
 
-Çeviri Kontrol: Fei
-
-Son Kontrol & Düzenleme: Kenanke
-
-Kaynak: [JPBD Remux ](https://nyaa.si/view/1328570 "JPBD Remux ")
-
-Meleğin Yumurtası, Tenshi no Tamago
+| Roller         | Ekip         |
+|----------------|--------------|
+| Çeviri         | Vuats      |
+| Çeviri Kontrol | Fei        |
+| Redaksiyon     | Kenanke    |
+| Kaynak         | [JPBD Remux](https://nyaa.si/view/1328570 "hydes")             |
